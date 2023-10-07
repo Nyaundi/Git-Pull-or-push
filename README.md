@@ -57,8 +57,8 @@ Conflict Resolution: Learn how to handle and resolve merge conflicts.
 Usage
 Feel free to use this project to practice Git and GitHub. Experiment with different workflows, create branches, make changes, and collaborate with others to gain hands-on experience.
 
-Contributing
+## Contributing
 If you have ideas for improving this practice project, please open an issue or a pull request. We welcome contributions from the community!
 
-License
+## License
 This project is licensed under the MIT License.
